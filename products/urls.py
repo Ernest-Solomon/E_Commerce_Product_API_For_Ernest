@@ -6,3 +6,9 @@ router.register(r'products', ProductViewSet)
 
 urlpatterns = router.urls
 
+
+
+
+
+
+
